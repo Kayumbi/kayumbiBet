@@ -1,0 +1,10 @@
+{
+  "name": "kayumbibet",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "KayumbiBet landing site — sports and digital entertainment for East Africa.",
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
